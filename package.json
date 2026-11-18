@@ -1,0 +1,31 @@
+{
+  "name": "dinesh-room-boy",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node tests/date.test.js"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "canvas-confetti": "^1.9.4",
+    "dayjs": "^1.11.13",
+    "framer-motion": "^11.18.2",
+    "qrcode": "^1.5.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.4.0",
+    "react-router-dom": "^6.28.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "jpeg-js": "^0.4.4",
+    "sharp": "^0.35.5",
+    "vite": "^6.0.7"
+  }
+}

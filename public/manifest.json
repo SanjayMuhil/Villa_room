@@ -1,0 +1,22 @@
+{
+  "name": "Dinesh Boy Villas ECR",
+  "short_name": "Dinesh Boy",
+  "description": "Private beachside villas on East Coast Road, Chennai with swimming pools, AC bedrooms and direct owner booking.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b4a57",
+  "theme_color": "#0b4a57",
+  "icons": [
+    {
+      "src": "/logo/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo/logo-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
